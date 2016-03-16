@@ -8,8 +8,4 @@
                  [org.geotools/gt-referencing "14.2"]
                  [org.geotools/gt-epsg-wkt "14.2"]]
   :aot :all
-  :repositories [["solita-archiva" {:url "http://mvn.solita.fi/repository/solita"
-                                    :checksum :ignore
-                                    :username :env/ARCHIVA_USERNAME
-                                    :password :env/ARCHIVA_PASSPHRASE}]
-                 ["osgeo" {:url "http://download.osgeo.org/webdav/geotools"}]])
+  :repositories [["osgeo" {:url "http://download.osgeo.org/webdav/geotools"}]])
