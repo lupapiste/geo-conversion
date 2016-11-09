@@ -2,4 +2,4 @@
 
 set -eu
 
-lein do clean, eastwood, test, jar, deploy
+lein do clean, eastwood, test, jar
