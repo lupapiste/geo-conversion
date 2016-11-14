@@ -1,4 +1,4 @@
-(defproject lupapiste/geo-conversion "0.1.0"
+(defproject lupapiste/geo-conversion "0.1.1-SNAPSHOT"
   :description "epsg3067 to wgs84 conversion library"
   :url "http://www.solita.fi"
   :license {:name "Eclipse Public License"
