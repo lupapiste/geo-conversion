@@ -6,7 +6,7 @@ A Clojure library for coordinate conversions. Supports EPSG:3067 to WGS84 for no
 
 ## License
 
-Copyright © 2016 Solita Oy.
+Copyright © 2020 Cloudpermit Oy.
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
