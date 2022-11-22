@@ -1,4 +1,4 @@
-(defproject lupapiste/geo-conversion "0.5.0"
+(defproject lupapiste/geo-conversion "0.5.1"
   :description "Coordinate conversion library"
   :url "https://github.com/lupapiste/geo-conversion"
   :license {:name "Eclipse Public License"
@@ -17,4 +17,4 @@
                                                                org.eclipse.emf/org.eclipse.emf.ecore
                                                                javax.media/jai_core]]]
   :aot :all
-  :repositories [["osgeo" {:url "https://repo.osgeo.org/repository/release/"}]])
+  :repositories {"osgeo" {:url "https://repo.osgeo.org/repository/release/"}})
